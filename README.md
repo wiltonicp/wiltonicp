@@ -1,29 +1,25 @@
 
 
-### Hi there 👋 
-### This is Fernando Roldán!
+### 你好呀 👋 
+### 这里是 vihacker!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wiltonicp)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wilton.icp@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<img align="right" alt="img" src="https://github.com/wiltonicp/wiltonicp/blob/master/cover_image.jpg" width="50%" height="auto" />
+欢迎来到我的Github页面！我是vihacker，目前是一位互联网从业者！
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### 🌱 我目前正在从事的工作: 
+- 正在编码中
+- 开源项目 🚀 *筹备中*
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### :muscle:  我正在挑战自己的事情:
+- 早起以充分利用一天
+- 每天至少编码4个小时
+- 锻炼身体
+- 通过其他来提高自己
 
-#### :computer: Programming languages and tools: 
+#### :computer: 编程语言和工具: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wiltonicp&show_icons=true&hide_border=true" />
 
