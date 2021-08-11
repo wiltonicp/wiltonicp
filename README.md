@@ -35,3 +35,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+#### 关注我:
+![公众号](http://oss.vihacker.top/image/%E5%85%B3%E6%B3%A8%E6%88%91.png)
