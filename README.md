@@ -37,4 +37,4 @@
 </p>
 
 #### 关注我:
-<img src="http://oss.vihacker.top/image/%E5%85%B3%E6%B3%A8%E6%88%91.png" alt="公众号" style="zoom:25%;" />
+<img src="http://oss.vihacker.top/image/%E5%85%B3%E6%B3%A8%E6%88%91.png" alt="公众号" style="zoom:50%;max-width: 50%;" />
